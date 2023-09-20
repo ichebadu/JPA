@@ -126,4 +126,5 @@ class CourseRepositoryTest {
         course.addStudent(student);
         courseRepository.save(course);
     }
+
 }
